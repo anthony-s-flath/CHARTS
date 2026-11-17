@@ -1,0 +1,6 @@
+Copyright 2026 Anthony Flath and Ke Wu
+
+This product includes software adapted from Lattigo v6.2.0's RingPackingEvaluator.Expand implementation:
+    https://github.com/tuneinsight/lattigo/blob/v6.2.0/core/rlwe/ring_packing.go
+Lattigo is distributed under the Apache License, Version 2.0.
+Copyright 2022 EPFL, Tune Insight SA
